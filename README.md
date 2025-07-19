@@ -1,0 +1,1 @@
+# BASH_ora_esatta
